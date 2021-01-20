@@ -9,4 +9,15 @@
 \contentsline {subsection}{\numberline {1.1.3}Tworzenie świata}{5}%
 \contentsline {paragraph}{}{5}%
 \contentsline {paragraph}{}{5}%
-\contentsline {chapter}{\numberline {2}}{6}%
+\contentsline {chapter}{\numberline {2}Pierwsze dni na świecie}{6}%
+\contentsline {section}{\numberline {2.1}Poruszanie i narzędzia}{6}%
+\contentsline {paragraph}{}{6}%
+\contentsline {paragraph}{}{6}%
+\contentsline {section}{\numberline {2.2}Za co warto się zabrać?}{6}%
+\contentsline {paragraph}{}{6}%
+\contentsline {paragraph}{}{6}%
+\contentsline {paragraph}{}{7}%
+\contentsline {paragraph}{}{7}%
+\contentsline {paragraph}{}{7}%
+\contentsline {chapter}{Zakończenie}{8}%
+\contentsline {paragraph}{}{8}%

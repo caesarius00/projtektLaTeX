@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.14)  20 JAN 2021 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.14)  20 JAN 2021 19:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -277,17 +277,24 @@ Package pdftex.def Info: createWorld.png  used on input line 70.
 
 ] [5 <./createWorld.png>]
 Rozdzia\PlPrIeC {\l } 2.
+<house.png, id=30, 223.58531pt x 176.91093pt>
+File: house.png Graphic file (type png)
+<use house.png>
+Package pdftex.def Info: house.png  used on input line 92.
+(pdftex.def)             Requested size: 223.58475pt x 176.91049pt.
 [6
+
+] [7 <./house.png>] [8
 
 ] (./projekt.aux) ) 
 Here is how much of TeX's memory you used:
- 1929 strings out of 481239
- 28360 string characters out of 5920377
- 266035 words of memory out of 5000000
- 17180 multiletter control sequences out of 15000+600000
+ 1937 strings out of 481239
+ 28453 string characters out of 5920377
+ 266045 words of memory out of 5000000
+ 17188 multiletter control sequences out of 15000+600000
  544517 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,11n,27p,285b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,11n,27p,497b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/pl/plit.enc}{
 /usr/share/texlive/texmf-dist/fonts/enc/dvips/pl/plrm.enc}</usr/share/texlive/t
 exmf-dist/fonts/type1/public/pl/plbx10.pfb></usr/share/texlive/texmf-dist/fonts
@@ -295,10 +302,10 @@ exmf-dist/fonts/type1/public/pl/plbx10.pfb></usr/share/texlive/texmf-dist/fonts
 l/plr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plr12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/pl/plr17.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/pl/plti10.pfb>
-Output written on projekt.pdf (7 pages, 437695 bytes).
+Output written on projekt.pdf (9 pages, 471525 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 65 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
