@@ -1,10 +1,12 @@
-\contentsline {chapter}{\numberline {1}Wstęp}{3}%
+\contentsline {chapter}{Wstęp}{3}%
 \contentsline {paragraph}{}{3}%
-\contentsline {chapter}{\numberline {2}Początki}{4}%
-\contentsline {section}{\numberline {2.1}Rozpoczęcie nowej gry}{4}%
-\contentsline {subsection}{\numberline {2.1.1}Tryb gry}{4}%
+\contentsline {chapter}{\numberline {1}Początki}{4}%
+\contentsline {section}{\numberline {1.1}Rozpoczęcie nowej gry}{4}%
+\contentsline {subsection}{\numberline {1.1.1}Tryb gry}{4}%
 \contentsline {paragraph}{}{4}%
-\contentsline {subsection}{\numberline {2.1.2}Tworzenie postaci}{4}%
+\contentsline {subsection}{\numberline {1.1.2}Tworzenie postaci}{4}%
 \contentsline {paragraph}{}{4}%
-\contentsline {subsection}{\numberline {2.1.3}Tworzenie świata}{5}%
+\contentsline {subsection}{\numberline {1.1.3}Tworzenie świata}{5}%
 \contentsline {paragraph}{}{5}%
+\contentsline {paragraph}{}{5}%
+\contentsline {chapter}{\numberline {2}}{6}%
